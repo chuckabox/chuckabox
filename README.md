@@ -18,9 +18,9 @@ Software Engineering student at **The University of Queensland (UQ)**. SWE inter
 
 | Project | Description |
 |---------|-------------|
-| [FuelFlow](https://fuelflow-frontend.onrender.com/) | Platform for optimising fuel fuel price volatility with real-time news analysis and machine learning prediction models. Won 2nd place at QUT AIML Hackathon - React + Leaflet.js + Python + Scikit-Learn |
-| [Uniordle](uniordle.com) | Cross-platform word puzzle available on Google Play Store - Flutter + Supabase + Firebase + Google OAuth |
-| [GreenWorld](http://greenworld-hackathon.vercel.app/) | Social network for sustainability. Built for UQSIC x UQ Library hackathon, won Judges' choice, interviewed for UQ social media |
-| [Trashcam](https://trashcam-scan.onrender.com/) | Web-based real-time object detection app using custom machine learning - YOLO parsing, TensorFlow.js, COCO-SSD |
-| [Prosperity Visualiser](https://chuckabox.github.io/Prosperity-Visualiser/) | Fast local dashboard for analysing IMC Prosperity competition logs - JavaScript, Web Workers, IndexedDB |
-| [LeetAI](https://github.com/chuckabox/LeetAI) | AI-powered app that analyses your LeetCode profile and recommends problems - React + Node.js + GraphQL API |
+| [FuelFlow](https://fuelflow-frontend.onrender.com/) | Platform for optimising fuel fuel price volatility with real-time news analysis and ML models. Won 2nd place at QUT AIML Hackathon - React + Leaflet.js + Python + Scikit-Learn |
+| [Uniordle](https://uniordle.com) | Cross-platform word puzzle available on Google Play - Flutter + Supabase + Firebase + Google OAuth |
+| [GreenWorld](http://greenworld-hackathon.vercel.app/) | Sustainability social network MVP. Won Judges' choice at UQSIC x UQ Library hackthon, interviewed for UQ social media |
+| [Trashcam](https://trashcam-scan.onrender.com/) | Real-time object detection app with custom-trained ML models - YOLO parsing, TensorFlow.js, COCO-SSD |
+| [Prosperity Visualiser](https://chuckabox.github.io/Prosperity-Visualiser/) | Local dashboard for analysing IMC Prosperity competition logs - JavaScript, Web Workers, IndexedDB |
+| [LeetAI](https://github.com/chuckabox/LeetAI) | AI-powered LeetCode profile analyser with problem recommendation - React + Node.js + GraphQL API |
