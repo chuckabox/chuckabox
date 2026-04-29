@@ -19,8 +19,8 @@ Software Engineering student at **The University of Queensland (UQ)**. SWE inter
 | Project | Description |
 |---------|-------------|
 | [Uniordle](uniordle.com) | Cross-platform word puzzle available on Google Play Store - Flutter + Supabase + Firebase + Google OAuth |
-| [LeetAI](https://github.com/chuckabox/LeetAI) | An AI-powered app that analyses your LeetCode profile and recommends problems - React + Node.js + GraphQL API |
+| [LeetAI](https://github.com/chuckabox/LeetAI) | AI-powered app that analyses your LeetCode profile and recommends problems - React + Node.js + GraphQL API |
 | [FuelFlow](https://github.com/chuckabox/FuelFlow) | ... |
-| [GreenWorld](https://github.com/chuckabox/GreenWorld) | ... |
-| [Prosperity Visualiser](https://github.com/chuckabox/Prosperity-Visualiser) | ... |
-| [Trashcam](https://github.com/chuckabox/Trashcam) | ... |
+| [GreenWorld](https://github.com/chuckabox/GreenWorld) | Social network for sustainability. Built for UQSIC x UQ Library hackathon, won Judges' choice, interviewed for UQ social media |
+| [Prosperity Visualiser](https://github.com/chuckabox/Prosperity-Visualiser) | Fast local dashboard for analysing IMC Prosperity competition logs - JavaScript, Web Workers, IndexedDB |
+| [Trashcam](https://github.com/chuckabox/Trashcam) | Web-based real-time object detection app using ML. Won 2nd place at QUT AIML Hackathon - YOLO parsing, TensorFlow.js, COCO-SSD |
