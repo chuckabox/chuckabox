@@ -1,4 +1,4 @@
-<h1 align="center">Peter</h1>
+<h1 align="center">I'm Peter (～￣▽￣)～</h1>
 
 <p align="center">
   <a href="http://peterma.vercel.app/">Portfolio</a> · 
