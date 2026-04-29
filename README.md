@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Peter Ma</h1>
 
-<!--
-**chuckabox/chuckabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="http://peterma.vercel.app/">Portfolio</a> · 
+  <a href="https://linkedin.com/in/peterzma">LinkedIn</a> · 
+  <a href="mailto:peter.ma3@hotmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+Software Engineering student at **The University of Queensland (UQ)**. SWE intern at **activATAR**, and academic tutor at **Excel Academics**.
+
+---
+
+### Selected Projects
+
+| Project | Description |
+|---------|-------------|
