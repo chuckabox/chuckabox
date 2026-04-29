@@ -6,13 +6,9 @@
   <a href="mailto:peter.ma3@hotmail.com">Email</a>
 </p>
 
----
-
 ### About Me
 
 Software Engineering student at **The University of Queensland (UQ)**. SWE intern at **activATAR**, and academic tutor at **Excel Academics**.
-
----
 
 ### Selected Projects
 
