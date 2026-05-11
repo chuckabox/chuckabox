@@ -14,7 +14,7 @@ Software Engineering student at **The University of Queensland (UQ)**. SWE inter
 
 | Project | Key Tech | Description |
 | :--- | :--- | :--- |
-| [The Last Deadline](https://github.com/chuckabox/The-Last-Deadline-Public) | `Godot` `GDScript` | **1st Place @ UQCS GameJam**. Navigate through mini-games to escape and submit your brutal assignment. |
+| [The Last Deadline](https://github.com/chuckabox/The-Last-Deadline-Public) | `Godot` `GDScript` | **1st Place @ UQCS GameJam 2026**. Featured on [UQCS Showcase](https://uqcs.org/showcase/). Navigate through mini-games to escape and submit your brutal assignment. |
 | [FuelFlow](https://fuelflow-frontend.onrender.com/) | `React` `Leaflet.js` `Python` `Scikit-Learn` | **2nd Place @ QUT AIML Hackathon**. Fuel price volatility optimisation platform with real-time news analysis and ML models. |
 | [Uniordle](https://uniordle.com) | `Flutter` `Supabase` `Firebase` `Google OAuth` | **Live on Google Play**. Cross-platform educational word puzzle for students. |
 | [GreenWorld](http://greenworld-hackathon.vercel.app/) | `TypeScript` `Next.js` `Tailwind` `Vite` | **Judges' Choice @ UQSIC**. Sustainability social network MVP for volunteering, interviewed by UQ social media |
