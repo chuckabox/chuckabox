@@ -18,4 +18,4 @@ Software Engineering student at **The University of Queensland (UQ)**. SWE inter
 | [FuelFlow](https://fuelflow-frontend.onrender.com/) | `React` `Leaflet.js` `Python` `Scikit-Learn` | **2nd Place @ QUT AIML Hackathon**. Fuel price volatility optimisation platform with real-time news analysis and ML models. |
 | [Uniordle](https://uniordle.com) | `Flutter` `Supabase` `Firebase` `Google OAuth` | **Live on Google Play**. Cross-platform educational word puzzle for students. |
 | [GreenWorld](http://greenworld-hackathon.vercel.app/) | `TypeScript` `Next.js` `Tailwind` `Vite` | **Judges' Choice @ UQSIC**. Sustainability social network MVP for volunteering. Interviewed by UQ social media. |
-| [Vector Framer](http://vectorframer.com/) | `TypeScript` `Next.js` `AWS S3` `Chart.js` `Katex` `Prism.js` | A modern, responsive canvas for technical system design. Free to use, no ads, no subscriptions, and no sign-up required. |
+| [Vector Framer](http://vectorframer.com/) | `TypeScript` `Next.js` `Chakra UI` `Chart.js` `AWS` | A modern, responsive canvas for technical system design. Free to use, no ads, no subscriptions, and no sign-up required. |
