@@ -1,7 +1,7 @@
 <h1 align="center">I'm Peter (～￣▽￣)～</h1>
 
 <p align="center">
-  <a href="http://peterma.vercel.app/">Portfolio</a> · 
+  <a href="https://www.peterma.dev/">Portfolio</a> · 
   <a href="https://linkedin.com/in/peterzma">LinkedIn</a> · 
   <a href="mailto:peter.ma3@hotmail.com">Email</a>
 </p>
