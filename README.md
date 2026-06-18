@@ -8,7 +8,7 @@
 
 ### About Me
 
-Software Engineering student at **The University of Queensland (UQ)**. SWE intern at [activATAR](https://activatar.com.au/), and academic tutor at [Excel Academics](https://excelacademics.com.au/).
+Software Engineering student at **The University of Queensland (UQ)**. Academic tutor at [Excel Academics](https://excelacademics.com.au/). Former SWE Intern at [activATAR](https://activatar.com.au/).
 
 ### Selected Projects
 
